@@ -1,4 +1,4 @@
-# Sentiment_-Analysis_-using_-Vader
+
 # Sentiment Analysis Using VADER
 
 ## Table of Contents
